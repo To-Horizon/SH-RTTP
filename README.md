@@ -1,2 +1,2 @@
 # SH-RTTP
-# We will release the code after the paper is accepted
+# The code will be made open-source after the paper is published
